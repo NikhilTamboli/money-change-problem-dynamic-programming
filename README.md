@@ -10,9 +10,6 @@ Input Format-> Integer money.
 
 Output Format-> The minimum number of coins with denominations 1, 3, 4 that changes money.
 
-Constraints-> 1 ≤ money ≤ 103.
-
-
 EXAMPLE:-
 Input:
 34
