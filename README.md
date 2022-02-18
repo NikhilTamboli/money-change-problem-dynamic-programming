@@ -1,4 +1,4 @@
-# money-change-problem-dynamic-programming
+# money-change-problem-dynamic-programming-cpp
 
 As we already know, a natural greedy strategy for the change problem does not work correctly for any set of
 denominations. For example, if the available denominations are 1, 3, and 4, the greedy algorithm will change
